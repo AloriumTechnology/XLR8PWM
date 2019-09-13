@@ -1,0 +1,19 @@
+#######################################
+# Syntax Coloring Map For XLR8PWM
+####################################### 
+# Class
+#######################################
+XLR8PWM	KEYWORD1
+
+#######################################
+# Methods and Functions 
+#######################################	
+enable	KEYWORD2
+disable	KEYWORD2
+setPulseWidth	KEYWORD2
+setPeriod	KEYWORD2
+isEnabled	KEYWORD2
+
+#######################################
+# Constants
+#######################################
