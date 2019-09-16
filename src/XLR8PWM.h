@@ -1,3 +1,12 @@
+/*
+ * Copyright (c) 2019 Alorium Technology
+ * Bryan Craker, info@aloriumtech.com
+ *
+ * PWM library for use with the PWM XB on an XLR8 family board.
+ *
+ * MIT License
+ */
+
 #ifndef XLR8_PWM_H
 #define XLR8_PWM_H
 
